@@ -4,7 +4,7 @@ Link :- https://courses.edx.org/certificates/20be39df6deb48baa5bc6addffebecf4
 
 ## CS50x: CS50's Introduction to Computer Science
 
-Links:- https://courses.edx.org/certificates/dd5a4ec8fbd94899abb0b8c94efc229d <br/> 
+Links:- 
         https://certificates.cs50.io/27a54128-e292-4b43-9449-6965e7bc683f.pdf?size=letter
         
 ## 6.00.1x: Introduction to Computer Science and Programming Using Python
