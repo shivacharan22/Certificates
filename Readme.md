@@ -26,7 +26,3 @@ Link :- https://coursera.org/share/0a747cb95063c0fa1108c4ac695551a6
 ## Reinforcement Learning Specialization 
 
 Link :- https://coursera.org/share/2cb5a62977138216bf16cda0fdf401c2
-
-## Internship certificate
-
-uploaded in files section
